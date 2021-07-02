@@ -10,6 +10,7 @@ ul{
 }
 li{
     width: 25%;
+    font-size: 1.3rem;
 }
 a{
     color:rgb(0, 0, 0);
@@ -20,5 +21,6 @@ a{
     color: rgb(44, 100, 143);
     right:100px;
     bottom:200px;
-    font-weight: bold;
+    font-weight: 600;
 }
+
