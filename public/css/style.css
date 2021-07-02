@@ -24,3 +24,25 @@ a{
     font-weight: 600;
 }
 
+footer {
+  background-color: whitesmoke;
+}
+
+.centered {
+  text-align: center;
+}
+div {
+  font-weight: 700;
+}
+#fatima {
+  color: blueviolet;
+}
+#nisrine {
+  color: hotpink;
+}
+#meryame {
+  color: goldenrod;
+}
+#leila {
+  color: orangered;
+}
